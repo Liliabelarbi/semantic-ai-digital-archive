@@ -1,28 +1,29 @@
-# semantic-ai-digital-archive
 # Semantic AI for Enhanced Metadata Creation and Curation
 
 ## Overview
-This repository explores the use of Semantic AI technologies for improving metadata creation and curation in digital archives. It compares current metadata practices, highlights gaps, and presents use cases for enhanced systems.
 
-## Structure
-- `/collections/` — Main folder containing categorized metadata collections.
-  - `metadata-practices/` — Items focused on traditional and modern metadata practices.
-  - `archival-technologies/` — Items covering the evolution of archival tech.
-- Each collection contains:
-  - Markdown files with item-level metadata.
-  - Related images or documents.
-  - Exhibit-level subfolders for grouping.
+This project explores how Semantic AI can improve metadata creation and curation practices in digital archives. It involves a comparative study using collected datasets, structured metadata, and analysis of practices.
 
-## Items
-Each item includes:
-- Title
-- Creator
-- Description
-- Date
-- Type
-- Tags
-- Source
-- Rights
+## Project Steps
 
-## Repository Goal
-To provide an open, well-organized repository that models how semantic tools can enhance the management and discovery of digital archive content.
+1. **Understanding Semantic AI & Metadata Curation**
+   - Concepts, tools, and relevance to digital archiving
+
+2. **Data Collection & Archiving**
+   - Gathering archival data and organizing it
+
+3. **Metadata Collection & Organization**
+   - Structuring metadata fields and enriching them
+
+4. **Repository Setup**
+   - Hosting the metadata and code using GitHub
+
+5. **Analysis & Visualization**
+   - Insights derived from the comparison of metadata practices
+
+6. **Final Report & Presentation**
+   - Summarized findings and presentation materials
+
+## Repository Link
+
+🔗 [https://github.com/Liliabelarbi/semantic-ai-digital-archive](https://github.com/Liliabelarbi/semantic-ai-digital-archive)
